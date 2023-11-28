@@ -1,0 +1,6 @@
+/* Test rule to see if styles are applied and StyleLint is
+actually working */
+
+body {
+  background-color: aqua;
+}
